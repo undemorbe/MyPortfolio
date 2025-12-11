@@ -42,9 +42,3 @@
 на экране. Работает в бэкграунде. Нюанс: только для android, IOS не даёт такой доступ к уведомлениям.
 
 ---
-
-## 📊 Активность и статистика
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brs-eight)](https://github.com/anuraghazra/github-readme-stats)
-
----
